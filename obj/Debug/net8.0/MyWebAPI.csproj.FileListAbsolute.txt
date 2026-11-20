@@ -1,0 +1,109 @@
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.staticwebassets.endpoints.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.exe
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.deps.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.runtimeconfig.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.pdb
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.csproj.AssemblyReference.cache
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.AssemblyInfoInputs.cache
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.AssemblyInfo.cs
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\scopedcss\bundle\MyWebAPI.styles.css
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.csproj.Up2Date
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\refint\MyWebAPI.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.pdb
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.genruntimeconfig.cache
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\obj\Debug\net8.0\ref\MyWebAPI.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\StorageBox.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\StorageTenant.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\StorageLeaseContract.json
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\mrfil\Desktop\Нова папка\Labs\MyWebAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.csproj.AssemblyReference.cache
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.AssemblyInfoInputs.cache
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.AssemblyInfo.cs
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\refint\MyWebAPI.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.pdb
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.staticwebassets.endpoints.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.exe
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.deps.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.runtimeconfig.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\MyWebAPI.pdb
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\scopedcss\bundle\MyWebAPI.styles.css
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.csproj.Up2Date
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\MyWebAPI.genruntimeconfig.cache
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\obj\Debug\net8.0\ref\MyWebAPI.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\mrfil\Desktop\Folder\Labs\MyWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
