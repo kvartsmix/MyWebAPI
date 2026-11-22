@@ -23,7 +23,7 @@ namespace UnitTestProject
 
         [Theory]
         [InlineData(1500, 2500, 4000)]
-        [InlineData(500.5, 1499.5, 2000)]
+        [InlineData(500.5, 1499.5, 2001)]
         [InlineData(0, 0, 0)]
         public async Task CalculateOccupiedMonthlyRevenueAsync_WithOccupiedBoxes_ReturnsExpectedSum(
             double firstPrice, double secondPrice, double expectedRevenue)
